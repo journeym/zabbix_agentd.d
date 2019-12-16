@@ -293,7 +293,7 @@
                             <preprocessing>
                                 <step>
                                     <type>5</type>
-                                    <params>Active..(.*)(\n)?
+                                    <params>Active:.(.*)(\n)?
 \1</params>
                                 </step>
                                 <step>
